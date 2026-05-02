@@ -1,0 +1,233 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-02T16:27:57.511Z",
+  "hoursStudied": {
+    "c": 0,
+    "java": 0,
+    "french": 0
+  },
+  "dailyNotes": {
+    "2026-05-02": "rien\n"
+  },
+  "skillTasks": {
+    "c_programming": [
+      {
+        "id": "cprog-l1",
+        "label": "Niveau 1 — Les bases (syntaxe, boucles, fonctions)",
+        "done": false
+      },
+      {
+        "id": "cprog-p1",
+        "label": "Projet — Bank Management System (console, tableaux, dépôts/retraits)",
+        "done": false
+      },
+      {
+        "id": "cprog-l2",
+        "label": "Niveau 2 — Le noyau (pointeurs, structs, mémoire dynamique)",
+        "done": false
+      },
+      {
+        "id": "cprog-p2",
+        "label": "Projet — Custom Shell (fork(), exec(), commandes de base)",
+        "done": false
+      },
+      {
+        "id": "cprog-l3",
+        "label": "Niveau 3 — Maîtrise (I/O fichiers, erreurs, fuites mémoire)",
+        "done": false
+      },
+      {
+        "id": "cprog-p3",
+        "label": "Projet — Binary File Explorer (hex/ASCII, style xxd)",
+        "done": false
+      }
+    ],
+    "data_structures_trees": [
+      {
+        "id": "ds-l1",
+        "label": "Niveau 1 — Structures linéaires (listes chaînées, piles, files)",
+        "done": false
+      },
+      {
+        "id": "ds-p1",
+        "label": "Projet — Undo/Redo (liste doublement chaînée, états)",
+        "done": false
+      },
+      {
+        "id": "ds-l2",
+        "label": "Niveau 2 — Arbres (BST, AVL, heaps)",
+        "done": false
+      },
+      {
+        "id": "ds-p2",
+        "label": "Projet — Contact Search Engine (Trie/BST, 5 000 contacts)",
+        "done": false
+      },
+      {
+        "id": "ds-l3",
+        "label": "Niveau 3 — Algorithmes (tri, recherche, récursivité)",
+        "done": false
+      },
+      {
+        "id": "ds-p3",
+        "label": "Projet — Visualizer CLI (Merge Sort / parcours d’arbre pas à pas)",
+        "done": false
+      }
+    ],
+    "java_enterprise": [
+      {
+        "id": "java-l1",
+        "label": "Niveau 1 — Fondamentaux POO (classes, héritage, interfaces)",
+        "done": false
+      },
+      {
+        "id": "java-p1",
+        "label": "Projet — University Management (rôles, polymorphisme, permissions)",
+        "done": false
+      },
+      {
+        "id": "java-l2",
+        "label": "Niveau 2 — Collections & Streams (List/Map, lambdas)",
+        "done": false
+      },
+      {
+        "id": "java-p2",
+        "label": "Projet — E-Commerce Inventory (Maps/Streams, filtres)",
+        "done": false
+      },
+      {
+        "id": "java-l3",
+        "label": "Niveau 3 — Spring Boot & Backend",
+        "done": false
+      },
+      {
+        "id": "java-p3",
+        "label": "Projet — RESTful Portfolio API (roadmap JSON, JWT)",
+        "done": false
+      }
+    ],
+    "networking": [
+      {
+        "id": "net-l1",
+        "label": "Niveau 1 — OSI & bases TCP/UDP",
+        "done": false
+      },
+      {
+        "id": "net-p1",
+        "label": "Projet — Ping Tool (ICMP, mesure de latence)",
+        "done": false
+      },
+      {
+        "id": "net-l2",
+        "label": "Niveau 2 — Sockets & conception de protocoles",
+        "done": false
+      },
+      {
+        "id": "net-p2",
+        "label": "Projet — Multi-Client Chat Server (10+ clients, threads)",
+        "done": false
+      },
+      {
+        "id": "net-l3",
+        "label": "Niveau 3 — Analyse avancée",
+        "done": false
+      },
+      {
+        "id": "net-p3",
+        "label": "Projet — Packet Sniffer (pcap, HTTP vs HTTPS)",
+        "done": false
+      }
+    ],
+    "math_stats": [
+      {
+        "id": "math-l1",
+        "label": "Niveau 1 — Calcul matriciel",
+        "done": false
+      },
+      {
+        "id": "math-p1",
+        "label": "Projet — Image Filter Logic (matrice, luminosité)",
+        "done": false
+      },
+      {
+        "id": "math-l2",
+        "label": "Niveau 2 — Applications d’algèbre linéaire",
+        "done": false
+      },
+      {
+        "id": "math-p2",
+        "label": "Projet — Matrix Calculator CLI (produit, déterminant, fichiers)",
+        "done": false
+      },
+      {
+        "id": "math-l3",
+        "label": "Niveau 3 — Statistiques",
+        "done": false
+      },
+      {
+        "id": "math-p3",
+        "label": "Projet — Grade Analyzer (loi normale, écart-type)",
+        "done": false
+      }
+    ],
+    "cli_and_french": [
+      {
+        "id": "cli-l1",
+        "label": "CLI — Niveau 1 (habitude de navigation)",
+        "done": false
+      },
+      {
+        "id": "cli-l2",
+        "label": "CLI — Niveau 2 (scripts Bash)",
+        "done": false
+      },
+      {
+        "id": "cli-p2",
+        "label": "Projet — Auto-Backup (zip + upload serveur)",
+        "done": false
+      },
+      {
+        "id": "fr-l1",
+        "label": "Français — Niveau 1 (A1/A2 : présent / passé)",
+        "done": false
+      },
+      {
+        "id": "fr-l2",
+        "label": "Français — Niveau 2 (B1/B2 : français technique)",
+        "done": false
+      },
+      {
+        "id": "fr-p2",
+        "label": "Projet — Le Blog Tech (expliquer les pointeurs en C en français)",
+        "done": false
+      }
+    ],
+    "integration_boss": [
+      {
+        "id": "boss-c",
+        "label": "C layer — Capturer le trafic et stocker dans un BST",
+        "done": false
+      },
+      {
+        "id": "boss-math",
+        "label": "Math layer — Matrices + statistiques (vitesse moyenne)",
+        "done": false
+      },
+      {
+        "id": "boss-java",
+        "label": "Java layer — Spring Boot lit les données (JNI / fichier partagé)",
+        "done": false
+      },
+      {
+        "id": "boss-web",
+        "label": "Web layer — Site pro FR/EN + graphes live",
+        "done": false
+      },
+      {
+        "id": "boss-cli",
+        "label": "CLI layer — Commande unique: analyze --start",
+        "done": false
+      }
+    ]
+  }
+}
